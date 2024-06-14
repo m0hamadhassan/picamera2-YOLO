@@ -91,6 +91,5 @@ Contributions are welcome! Here's how you can contribute:
 2. Improve the documentation.
 3. Submit pull requests with improvements to the code.
 
-Please use the issue tracker for feedback and discussions.
 
 ---
