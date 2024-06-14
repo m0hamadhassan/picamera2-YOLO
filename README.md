@@ -1,9 +1,3 @@
-Here's an updated README.md for your repository, tailored to the new functionality of the `ObjectDetector` class, which now reads class names from a text file and maps these to custom actions.
-
-### README.md
-
----
-
 # PiCamera Object Detection with Dynamic Class Configuration
 
 This repository features the `ObjectDetector` class, designed to enable real-time object detection on Raspberry Pi devices using PiCamera2 and a YOLO model. The class is uniquely designed to dynamically load class names from a text file and execute custom actions based on detected objects, allowing for easy customization and scalability.
