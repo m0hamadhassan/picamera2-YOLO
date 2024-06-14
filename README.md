@@ -94,7 +94,3 @@ Contributions are welcome! Here's how you can contribute:
 Please use the issue tracker for feedback and discussions.
 
 ---
-
-### Saving the README
-
-Create a `README.md` file in the root of your repository and copy the content above into it. This README will provide a comprehensive guide to setting up and using the `ObjectDetector`, making it accessible for both users looking to implement object detection in their projects and potential contributors interested in enhancing the functionality.
